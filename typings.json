@@ -1,0 +1,14 @@
+{
+  "globalDevDependencies": {
+    "chai": "registry:dt/chai#3.4.0+20160601211834",
+    "jest": "registry:dt/jest#0.9.0+20160914121351",
+    "sinon": "registry:dt/sinon#1.16.0+20160517064723"
+  },
+  "globalDependencies": {
+    "angular": "registry:dt/angular#1.5.0+20160909133806",
+    "angular-mocks": "registry:dt/angular-mocks#1.5.0+20160608104721",
+    "es6-shim": "registry:dt/es6-shim#0.31.2+20160602141504",
+    "jquery": "registry:dt/jquery#1.10.0+20160908203239",
+    "reflect-metadata": "registry:dt/reflect-metadata#0.0.0+20160630155503"
+  }
+}

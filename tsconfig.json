@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "noImplicitAny": true,
+    "sourceMap": false,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "declaration": false,
+    "pretty": true,
+    "preserveConstEnums": true
+  },
+  "exclude": [
+    "node_modules",
+    "karma.conf.ts"
+  ]
+}
